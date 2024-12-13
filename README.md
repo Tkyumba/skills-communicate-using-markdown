@@ -1,22 +1,23 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+## About Me
+
+Hello everyone, my name is Tupo 👋
+
+I'm a technology enthusiast passionate about cloud computing, coding, and continuous learning.  
+Currently exploring platforms like Azure and AWS, I aim to design scalable, efficient cloud-based solutions.
+
+## Connect with Me:
+- [GitHub](https://github.com/Tkyumba)
+- [LinkedIn](https://www.linkedin.com/in/tupokiwe-kyumba-6b0971262/)
+
+---
 
 ## Finish
 
@@ -45,11 +46,6 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
 
 ---
 
