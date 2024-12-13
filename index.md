@@ -11,3 +11,5 @@
 ###### This is H6 Header
 
 Added Markdown Headers to structure the file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
